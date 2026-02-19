@@ -20,3 +20,4 @@ print("PRECIO:", precio)
 print("MONTO A PAGAR:", monto_pagar)
 
 print("ola")
+#ya no se que poner xd
