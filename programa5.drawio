@@ -1,0 +1,43 @@
+<mxfile host="65bd71144e">
+    <diagram id="OYhAR6BHTdKM-9q7Sxlt" name="Page-1">
+        <mxGraphModel dx="1188" dy="2398" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="4" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="2" target="3">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 35px;&quot;&gt;Inicio&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+                    <mxGeometry x="-590" y="-1040" width="330" height="190" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="3" target="5">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="base: int&amp;nbsp;&lt;div&gt;altura: int&lt;/div&gt;&lt;div&gt;area: float&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;strokeColor=#C2C2C2;" vertex="1" parent="1">
+                    <mxGeometry x="-530" y="-810" width="210" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="5" target="9">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="Leer base,altura" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=24;" vertex="1" parent="1">
+                    <mxGeometry x="-560" y="-670" width="270" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="9" target="11">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="area= (base * altura) / 2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;strokeColor=#C2C2C2;" vertex="1" parent="1">
+                    <mxGeometry x="-565" y="-560" width="280" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="11" target="13">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="Escribir base,altura, area" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=24;" vertex="1" parent="1">
+                    <mxGeometry x="-580" y="-430" width="310" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 35px;&quot;&gt;Fin&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+                    <mxGeometry x="-510" y="-300" width="170" height="120" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

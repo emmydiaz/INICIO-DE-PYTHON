@@ -1,0 +1,43 @@
+<mxfile host="65bd71144e">
+    <diagram id="xLBjQnMy5VKzQQzVwSz8" name="Page-1">
+        <mxGraphModel dx="1089" dy="2016" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="4" value="" style="edgeStyle=none;html=1;" parent="1" source="2" target="3" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="&lt;font face=&quot;Georgia&quot;&gt;Inicio&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=25;" parent="1" vertex="1">
+                    <mxGeometry x="-560" y="-1050" width="270" height="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="" style="edgeStyle=none;html=1;" parent="1" source="3" target="5" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="&lt;div&gt;producto1:float&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;color: rgb(63, 63, 63); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251);&quot;&gt;producto2:float&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;color: rgb(63, 63, 63); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251);&quot;&gt;producto3:float&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;color: rgb(63, 63, 63); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251);&quot;&gt;producto4:float&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;color: rgb(63, 63, 63); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251);&quot;&gt;producto5:float&lt;/div&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;/span&gt;&lt;/div&gt;subtotal: float&lt;div&gt;igv: float&lt;/div&gt;&lt;div&gt;total_pagar: float&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;strokeColor=#C2C2C2;" parent="1" vertex="1">
+                    <mxGeometry x="-535" y="-880" width="220" height="180" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="" style="edgeStyle=none;html=1;" parent="1" source="5" target="11" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="Leer producto1,&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;producto2,&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;producto3,&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;producto4,&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;producto5&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=17;" parent="1" vertex="1">
+                    <mxGeometry x="-700" y="-670" width="550" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="9" target="14">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;Escribir subtotal,igv,total_pagar&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=17;" parent="1" vertex="1">
+                    <mxGeometry x="-663" y="-490" width="477" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="" style="edgeStyle=none;html=1;" parent="1" source="11" target="9" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="subtotal= producto1+producto2+producto3+producto4+prudcto5&lt;div&gt;igv=0.18 * subtotal&lt;/div&gt;&lt;div&gt;total_pagar= subtotal+ igv&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;strokeColor=#C2C2C2;" parent="1" vertex="1">
+                    <mxGeometry x="-712" y="-590" width="575" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="&lt;font face=&quot;Georgia&quot;&gt;Fin&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=25;" vertex="1" parent="1">
+                    <mxGeometry x="-519.25" y="-370" width="189.5" height="100" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
