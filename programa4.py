@@ -18,3 +18,5 @@ monto_pagar= cantidad * precio
 print("CANTIDAD:", cantidad)
 print("PRECIO:", precio)
 print("MONTO A PAGAR:", monto_pagar)
+
+print("ola")
