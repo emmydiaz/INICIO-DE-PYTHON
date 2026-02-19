@@ -18,4 +18,5 @@ print(type(nombre))
 print(type(edad))
 print(type(talla))
 
+                            #xd
                             
